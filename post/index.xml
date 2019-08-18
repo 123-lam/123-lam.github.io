@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 蓝浩然的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Aug 2019 19:15:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 23:08:20 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我的第三篇博客</title>
+      <link>http://localhost:1313/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 18 Aug 2019 23:08:20 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这是我的第三篇博客</description>
+    </item>
     
     <item>
       <title>博客作业</title>
@@ -36,15 +45,6 @@
       
       <guid>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>我的博客 我的博客开通了，希望我能写出好文章</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>这是我的第三篇博客 这个博客不写的话，老师不让结束这个课程</description>
     </item>
     
   </channel>
