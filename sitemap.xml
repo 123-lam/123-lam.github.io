@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2019-08-19T03:30:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%94%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2019-08-19T03:30:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-08-19T03:30:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2019-08-19T01:13:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,13 +31,6 @@
   
   <url>
     <loc>http://localhost:1313/post/%E6%88%91%E7%9A%84%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2019-08-19T01:13:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2019-08-19T01:13:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
