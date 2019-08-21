@@ -6,7 +6,7 @@
     <description>Recent content on 蓝浩然的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Aug 2019 15:59:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 12:59:24 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,9 @@
     <item>
       <title>Posts</title>
       <link>http://localhost:1313/post/</link>
-      <pubDate>Mon, 19 Aug 2019 15:59:29 +0800</pubDate>
+      <pubDate>Wed, 21 Aug 2019 12:59:24 +0800</pubDate>
       
       <guid>http://localhost:1313/post/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>http://localhost:1313/posts/</link>
-      <pubDate>Mon, 19 Aug 2019 03:30:43 +0800</pubDate>
-      
-      <guid>http://localhost:1313/posts/</guid>
       
         <description></description>
       
